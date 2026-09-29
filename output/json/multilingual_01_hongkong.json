@@ -1,0 +1,965 @@
+{
+  "documentId": "multilingual_01_hongkong.pdf",
+  "invoice": {
+    "invoiceNumber": {
+      "value": "2272448431",
+      "bbox": {
+        "page": 1,
+        "x1": 642.0,
+        "y1": 15.0,
+        "x2": 654.0,
+        "y2": 26.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "invoiceDate": {
+      "value": "28/02/2026",
+      "bbox": {
+        "page": 1,
+        "x1": 17.0,
+        "y1": 283.0,
+        "x2": 298.0,
+        "y2": 297.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "dueDate": {
+      "value": "31/03/2026",
+      "bbox": {
+        "page": 1,
+        "x1": 642.0,
+        "y1": 15.0,
+        "x2": 654.0,
+        "y2": 26.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "supplierName": {
+      "value": "NEXTRA (HONG KONG) COMPANY LTD.",
+      "bbox": {
+        "page": 1,
+        "x1": 19.0,
+        "y1": 87.0,
+        "x2": 205.0,
+        "y2": 121.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "supplierTaxId": {
+      "value": null,
+      "bbox": null,
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "buyerName": {
+      "value": "ZALORA (HONG KONG) LIMITED",
+      "bbox": {
+        "page": 1,
+        "x1": 358.0,
+        "y1": 68.0,
+        "x2": 507.0,
+        "y2": 141.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "buyerTaxId": {
+      "value": null,
+      "bbox": null,
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "currency": {
+      "value": "HKD",
+      "bbox": {
+        "page": 1,
+        "x1": 9.0,
+        "y1": 941.0,
+        "x2": 693.0,
+        "y2": 999.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "subtotal": {
+      "value": "1,159.30",
+      "bbox": {
+        "page": 1,
+        "x1": 652.0,
+        "y1": 907.0,
+        "x2": 695.0,
+        "y2": 920.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "taxAmount": {
+      "value": null,
+      "bbox": null,
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "totalAmount": {
+      "value": "1,159.30",
+      "bbox": {
+        "page": 1,
+        "x1": 652.0,
+        "y1": 907.0,
+        "x2": 695.0,
+        "y2": 920.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "amountDue": {
+      "value": "1,159.30",
+      "bbox": {
+        "page": 1,
+        "x1": 652.0,
+        "y1": 907.0,
+        "x2": 695.0,
+        "y2": 920.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "paymentTerms": {
+      "value": "31/03/2026",
+      "bbox": {
+        "page": 1,
+        "x1": 642.0,
+        "y1": 15.0,
+        "x2": 654.0,
+        "y2": 26.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "purchaseOrderNumber": {
+      "value": "5100038208",
+      "bbox": {
+        "page": 1,
+        "x1": 642.0,
+        "y1": 15.0,
+        "x2": 654.0,
+        "y2": 26.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    }
+  },
+  "lineItems": [
+    {
+      "description": {
+        "value": "BX100 CANCARE ALCOHOL PREPS",
+        "bbox": {
+          "page": 1,
+          "x1": 642.0,
+          "y1": 15.0,
+          "x2": 654.0,
+          "y2": 26.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "quantity": {
+        "value": "1",
+        "bbox": {
+          "page": 1,
+          "x1": 642.0,
+          "y1": 15.0,
+          "x2": 654.0,
+          "y2": 26.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "unitPrice": {
+        "value": "18.70",
+        "bbox": {
+          "page": 1,
+          "x1": 642.0,
+          "y1": 15.0,
+          "x2": 654.0,
+          "y2": 26.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxRate": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxAmount": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "lineAmount": {
+        "value": "18.70",
+        "bbox": {
+          "page": 1,
+          "x1": 642.0,
+          "y1": 15.0,
+          "x2": 654.0,
+          "y2": 26.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      }
+    },
+    {
+      "description": {
+        "value": "BX25 BANITORE PLASTER CLEAR",
+        "bbox": {
+          "page": 1,
+          "x1": 9.0,
+          "y1": 396.0,
+          "x2": 693.0,
+          "y2": 905.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "quantity": {
+        "value": "1",
+        "bbox": {
+          "page": 1,
+          "x1": 642.0,
+          "y1": 15.0,
+          "x2": 654.0,
+          "y2": 26.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "unitPrice": {
+        "value": "17.50",
+        "bbox": {
+          "page": 1,
+          "x1": 642.0,
+          "y1": 15.0,
+          "x2": 654.0,
+          "y2": 26.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxRate": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxAmount": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "lineAmount": {
+        "value": "17.50",
+        "bbox": {
+          "page": 1,
+          "x1": 642.0,
+          "y1": 15.0,
+          "x2": 654.0,
+          "y2": 26.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      }
+    },
+    {
+      "description": {
+        "value": "PACKAGING CLOTH 2\"X10YDS BLU",
+        "bbox": {
+          "page": 1,
+          "x1": 642.0,
+          "y1": 15.0,
+          "x2": 654.0,
+          "y2": 26.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "quantity": {
+        "value": "1",
+        "bbox": {
+          "page": 1,
+          "x1": 642.0,
+          "y1": 15.0,
+          "x2": 654.0,
+          "y2": 26.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "unitPrice": {
+        "value": "15.60",
+        "bbox": {
+          "page": 1,
+          "x1": 642.0,
+          "y1": 15.0,
+          "x2": 654.0,
+          "y2": 26.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxRate": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxAmount": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "lineAmount": {
+        "value": "15.60",
+        "bbox": {
+          "page": 1,
+          "x1": 642.0,
+          "y1": 15.0,
+          "x2": 654.0,
+          "y2": 26.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      }
+    },
+    {
+      "description": {
+        "value": "PACKAGING CLOTH 2\"X10YDS YLLW",
+        "bbox": {
+          "page": 1,
+          "x1": 642.0,
+          "y1": 15.0,
+          "x2": 654.0,
+          "y2": 26.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "quantity": {
+        "value": "4",
+        "bbox": {
+          "page": 1,
+          "x1": 17.0,
+          "y1": 212.0,
+          "x2": 303.0,
+          "y2": 226.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "unitPrice": {
+        "value": "15.60",
+        "bbox": {
+          "page": 1,
+          "x1": 642.0,
+          "y1": 15.0,
+          "x2": 654.0,
+          "y2": 26.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxRate": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxAmount": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "lineAmount": {
+        "value": "62.40",
+        "bbox": {
+          "page": 1,
+          "x1": 9.0,
+          "y1": 396.0,
+          "x2": 693.0,
+          "y2": 905.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      }
+    },
+    {
+      "description": {
+        "value": "PACKAGING CLOTH 2\"X10YDS RED",
+        "bbox": {
+          "page": 1,
+          "x1": 642.0,
+          "y1": 15.0,
+          "x2": 654.0,
+          "y2": 26.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "quantity": {
+        "value": "2",
+        "bbox": {
+          "page": 1,
+          "x1": 180.0,
+          "y1": 189.0,
+          "x2": 260.0,
+          "y2": 200.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "unitPrice": {
+        "value": "15.60",
+        "bbox": {
+          "page": 1,
+          "x1": 642.0,
+          "y1": 15.0,
+          "x2": 654.0,
+          "y2": 26.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxRate": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxAmount": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "lineAmount": {
+        "value": "31.20",
+        "bbox": {
+          "page": 1,
+          "x1": 642.0,
+          "y1": 15.0,
+          "x2": 654.0,
+          "y2": 26.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      }
+    },
+    {
+      "description": {
+        "value": "PANFIX ADHESIVE TAPE 3/4\"X72YDS",
+        "bbox": {
+          "page": 1,
+          "x1": 9.0,
+          "y1": 396.0,
+          "x2": 693.0,
+          "y2": 905.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "quantity": {
+        "value": "16",
+        "bbox": {
+          "page": 1,
+          "x1": 642.0,
+          "y1": 15.0,
+          "x2": 654.0,
+          "y2": 26.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "unitPrice": {
+        "value": "25.10",
+        "bbox": {
+          "page": 1,
+          "x1": 642.0,
+          "y1": 15.0,
+          "x2": 654.0,
+          "y2": 26.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxRate": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxAmount": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "lineAmount": {
+        "value": "401.60",
+        "bbox": {
+          "page": 1,
+          "x1": 642.0,
+          "y1": 15.0,
+          "x2": 654.0,
+          "y2": 26.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      }
+    },
+    {
+      "description": {
+        "value": "PANFIX ADHESIVE TAPE 3/4\"X36YDS",
+        "bbox": {
+          "page": 1,
+          "x1": 9.0,
+          "y1": 396.0,
+          "x2": 693.0,
+          "y2": 905.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "quantity": {
+        "value": "16",
+        "bbox": {
+          "page": 1,
+          "x1": 642.0,
+          "y1": 15.0,
+          "x2": 654.0,
+          "y2": 26.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "unitPrice": {
+        "value": "13.00",
+        "bbox": {
+          "page": 1,
+          "x1": 642.0,
+          "y1": 15.0,
+          "x2": 654.0,
+          "y2": 26.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxRate": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxAmount": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "lineAmount": {
+        "value": "208.00",
+        "bbox": {
+          "page": 1,
+          "x1": 9.0,
+          "y1": 396.0,
+          "x2": 693.0,
+          "y2": 905.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      }
+    },
+    {
+      "description": {
+        "value": "PK3 WALCH LIQ SOAP MOIST W.REF 450ML",
+        "bbox": {
+          "page": 1,
+          "x1": 9.0,
+          "y1": 396.0,
+          "x2": 693.0,
+          "y2": 905.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "quantity": {
+        "value": "1",
+        "bbox": {
+          "page": 1,
+          "x1": 642.0,
+          "y1": 15.0,
+          "x2": 654.0,
+          "y2": 26.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "unitPrice": {
+        "value": "89.60",
+        "bbox": {
+          "page": 1,
+          "x1": 9.0,
+          "y1": 396.0,
+          "x2": 693.0,
+          "y2": 905.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxRate": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxAmount": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "lineAmount": {
+        "value": "89.60",
+        "bbox": {
+          "page": 1,
+          "x1": 9.0,
+          "y1": 396.0,
+          "x2": 693.0,
+          "y2": 905.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      }
+    },
+    {
+      "description": {
+        "value": "PK100 PLASTIC LITTER BAG 24\"X24\"10MI WH",
+        "bbox": {
+          "page": 1,
+          "x1": 642.0,
+          "y1": 15.0,
+          "x2": 654.0,
+          "y2": 26.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "quantity": {
+        "value": "1",
+        "bbox": {
+          "page": 1,
+          "x1": 642.0,
+          "y1": 15.0,
+          "x2": 654.0,
+          "y2": 26.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "unitPrice": {
+        "value": "35.10",
+        "bbox": {
+          "page": 1,
+          "x1": 642.0,
+          "y1": 15.0,
+          "x2": 654.0,
+          "y2": 26.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxRate": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxAmount": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "lineAmount": {
+        "value": "35.10",
+        "bbox": {
+          "page": 1,
+          "x1": 642.0,
+          "y1": 15.0,
+          "x2": 654.0,
+          "y2": 26.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      }
+    },
+    {
+      "description": {
+        "value": "PK10 VIRJOY BATHROOM TISSUE 3PLY YELLOW",
+        "bbox": {
+          "page": 1,
+          "x1": 642.0,
+          "y1": 15.0,
+          "x2": 654.0,
+          "y2": 26.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "quantity": {
+        "value": "2",
+        "bbox": {
+          "page": 1,
+          "x1": 180.0,
+          "y1": 189.0,
+          "x2": 260.0,
+          "y2": 200.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "unitPrice": {
+        "value": "39.60",
+        "bbox": {
+          "page": 1,
+          "x1": 9.0,
+          "y1": 396.0,
+          "x2": 693.0,
+          "y2": 905.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxRate": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxAmount": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "lineAmount": {
+        "value": "79.20",
+        "bbox": {
+          "page": 1,
+          "x1": 9.0,
+          "y1": 396.0,
+          "x2": 693.0,
+          "y2": 905.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      }
+    },
+    {
+      "description": {
+        "value": "PK85 SCOTCH-BRITE 857HK DISINFECT WIPE",
+        "bbox": {
+          "page": 1,
+          "x1": 9.0,
+          "y1": 396.0,
+          "x2": 693.0,
+          "y2": 905.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "quantity": {
+        "value": "2",
+        "bbox": {
+          "page": 1,
+          "x1": 180.0,
+          "y1": 189.0,
+          "x2": 260.0,
+          "y2": 200.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "unitPrice": {
+        "value": "56.00",
+        "bbox": {
+          "page": 1,
+          "x1": 9.0,
+          "y1": 396.0,
+          "x2": 693.0,
+          "y2": 905.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxRate": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxAmount": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "lineAmount": {
+        "value": "112.00",
+        "bbox": {
+          "page": 1,
+          "x1": 642.0,
+          "y1": 15.0,
+          "x2": 654.0,
+          "y2": 26.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      }
+    },
+    {
+      "description": {
+        "value": "PK5 VIRJOY 2PLY FACIAL TISSUE RED 1305HT",
+        "bbox": {
+          "page": 1,
+          "x1": 642.0,
+          "y1": 15.0,
+          "x2": 654.0,
+          "y2": 26.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "quantity": {
+        "value": "1",
+        "bbox": {
+          "page": 1,
+          "x1": 642.0,
+          "y1": 15.0,
+          "x2": 654.0,
+          "y2": 26.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "unitPrice": {
+        "value": "32.90",
+        "bbox": {
+          "page": 1,
+          "x1": 9.0,
+          "y1": 396.0,
+          "x2": 693.0,
+          "y2": 905.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxRate": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxAmount": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "lineAmount": {
+        "value": "32.90",
+        "bbox": {
+          "page": 1,
+          "x1": 9.0,
+          "y1": 396.0,
+          "x2": 693.0,
+          "y2": 905.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      }
+    },
+    {
+      "description": {
+        "value": "PK250 FAVOUR M-FOLD PAPER FSC",
+        "bbox": {
+          "page": 1,
+          "x1": 9.0,
+          "y1": 396.0,
+          "x2": 693.0,
+          "y2": 905.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "quantity": {
+        "value": "3",
+        "bbox": {
+          "page": 1,
+          "x1": 652.0,
+          "y1": 907.0,
+          "x2": 695.0,
+          "y2": 920.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "unitPrice": {
+        "value": "18.50",
+        "bbox": {
+          "page": 1,
+          "x1": 642.0,
+          "y1": 15.0,
+          "x2": 654.0,
+          "y2": 26.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxRate": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxAmount": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "lineAmount": {
+        "value": "55.50",
+        "bbox": {
+          "page": 1,
+          "x1": 9.0,
+          "y1": 396.0,
+          "x2": 693.0,
+          "y2": 905.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      }
+    }
+  ],
+  "isHumanReviewRequired": false,
+  "reviewReasons": []
+}

@@ -1,0 +1,156 @@
+{
+  "documentId": "handwritten_02_patricia_gapay.pdf",
+  "invoice": {
+    "invoiceNumber": {
+      "value": "0043",
+      "bbox": {
+        "page": 1,
+        "x1": 603.0,
+        "y1": 395.0,
+        "x2": 693.0,
+        "y2": 419.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "invoiceDate": {
+      "value": "November 23, 2025",
+      "bbox": {
+        "page": 1,
+        "x1": 512.0,
+        "y1": 430.0,
+        "x2": 690.0,
+        "y2": 448.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "dueDate": {
+      "value": null,
+      "bbox": null,
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "supplierName": {
+      "value": "GAFFUD PRINTING SERVICES",
+      "bbox": {
+        "page": 1,
+        "x1": 280.0,
+        "y1": 624.0,
+        "x2": 387.0,
+        "y2": 631.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "supplierTaxId": {
+      "value": "143-009-159-00000",
+      "bbox": {
+        "page": 1,
+        "x1": 239.0,
+        "y1": 639.0,
+        "x2": 412.0,
+        "y2": 645.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "buyerName": {
+      "value": "BF JADE E SERVICES PHILIPPINES INC.",
+      "bbox": {
+        "page": 1,
+        "x1": 240.0,
+        "y1": 450.0,
+        "x2": 587.0,
+        "y2": 467.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "buyerTaxId": {
+      "value": "008-183-175",
+      "bbox": {
+        "page": 1,
+        "x1": 240.0,
+        "y1": 471.0,
+        "x2": 656.0,
+        "y2": 487.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "currency": {
+      "value": "PHP",
+      "bbox": null,
+      "isHumanReviewRequired": true,
+      "reviewReasons": [
+        "LOW_CONFIDENCE"
+      ]
+    },
+    "subtotal": {
+      "value": "15789.47",
+      "bbox": {
+        "page": 1,
+        "x1": 10.0,
+        "y1": 329.0,
+        "x2": 231.0,
+        "y2": 528.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "taxAmount": {
+      "value": "789.47",
+      "bbox": {
+        "page": 1,
+        "x1": 10.0,
+        "y1": 329.0,
+        "x2": 231.0,
+        "y2": 528.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "totalAmount": {
+      "value": "15000",
+      "bbox": {
+        "page": 1,
+        "x1": 280.0,
+        "y1": 601.0,
+        "x2": 363.0,
+        "y2": 608.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "amountDue": {
+      "value": "15000",
+      "bbox": {
+        "page": 1,
+        "x1": 280.0,
+        "y1": 601.0,
+        "x2": 363.0,
+        "y2": 608.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "paymentTerms": {
+      "value": null,
+      "bbox": null,
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "purchaseOrderNumber": {
+      "value": null,
+      "bbox": null,
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    }
+  },
+  "lineItems": [],
+  "isHumanReviewRequired": true,
+  "reviewReasons": [
+    "MANDATORY_FIELD_REVIEW"
+  ]
+}

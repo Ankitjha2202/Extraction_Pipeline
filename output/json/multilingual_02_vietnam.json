@@ -1,0 +1,233 @@
+{
+  "documentId": "multilingual_02_vietnam.pdf",
+  "invoice": {
+    "invoiceNumber": {
+      "value": "00000114",
+      "bbox": {
+        "page": 1,
+        "x1": 470.0,
+        "y1": 229.0,
+        "x2": 613.0,
+        "y2": 243.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "invoiceDate": {
+      "value": "22 tháng 01 năm 2026",
+      "bbox": {
+        "page": 1,
+        "x1": 185.0,
+        "y1": 299.0,
+        "x2": 437.0,
+        "y2": 313.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "dueDate": {
+      "value": null,
+      "bbox": null,
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "supplierName": {
+      "value": "CÔNG TY LIÊN DOANH HOÀNG KIM SÀI GÒN",
+      "bbox": {
+        "page": 1,
+        "x1": 235.0,
+        "y1": 49.0,
+        "x2": 396.0,
+        "y2": 60.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "supplierTaxId": {
+      "value": "0415672985",
+      "bbox": {
+        "page": 1,
+        "x1": 235.0,
+        "y1": 99.0,
+        "x2": 412.0,
+        "y2": 111.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "buyerName": {
+      "value": "Global Fashion Group SGP Services Pte. Ltd",
+      "bbox": {
+        "page": 1,
+        "x1": 41.0,
+        "y1": 347.0,
+        "x2": 459.0,
+        "y2": 362.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "buyerTaxId": {
+      "value": null,
+      "bbox": null,
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "currency": {
+      "value": "VND",
+      "bbox": {
+        "page": 1,
+        "x1": 685.0,
+        "y1": 212.0,
+        "x2": 697.0,
+        "y2": 781.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "subtotal": {
+      "value": "39.254.545",
+      "bbox": {
+        "page": 1,
+        "x1": 422.0,
+        "y1": 693.0,
+        "x2": 675.0,
+        "y2": 707.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "taxAmount": {
+      "value": "3.925.455",
+      "bbox": {
+        "page": 1,
+        "x1": 41.0,
+        "y1": 714.0,
+        "x2": 675.0,
+        "y2": 730.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "totalAmount": {
+      "value": "43.180.000",
+      "bbox": {
+        "page": 1,
+        "x1": 354.0,
+        "y1": 736.0,
+        "x2": 675.0,
+        "y2": 750.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "amountDue": {
+      "value": "43.180.000",
+      "bbox": {
+        "page": 1,
+        "x1": 354.0,
+        "y1": 736.0,
+        "x2": 675.0,
+        "y2": 750.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "paymentTerms": {
+      "value": "Tiền mặt/Chuyển khoản",
+      "bbox": {
+        "page": 1,
+        "x1": 41.0,
+        "y1": 440.0,
+        "x2": 386.0,
+        "y2": 454.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "purchaseOrderNumber": {
+      "value": null,
+      "bbox": null,
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    }
+  },
+  "lineItems": [
+    {
+      "description": {
+        "value": "Thuế căn hộ 12/01/2026-11/02/2026",
+        "bbox": {
+          "page": 1,
+          "x1": 34.0,
+          "y1": 492.0,
+          "x2": 677.0,
+          "y2": 688.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "quantity": {
+        "value": "1",
+        "bbox": {
+          "page": 1,
+          "x1": 377.0,
+          "y1": 162.0,
+          "x2": 430.0,
+          "y2": 171.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "unitPrice": {
+        "value": "39.254.545",
+        "bbox": {
+          "page": 1,
+          "x1": 422.0,
+          "y1": 693.0,
+          "x2": 675.0,
+          "y2": 707.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxRate": {
+        "value": "10%",
+        "bbox": {
+          "page": 1,
+          "x1": 41.0,
+          "y1": 714.0,
+          "x2": 675.0,
+          "y2": 730.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxAmount": {
+        "value": "3.925.455",
+        "bbox": {
+          "page": 1,
+          "x1": 41.0,
+          "y1": 714.0,
+          "x2": 675.0,
+          "y2": 730.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "lineAmount": {
+        "value": "39.254.545",
+        "bbox": {
+          "page": 1,
+          "x1": 422.0,
+          "y1": 693.0,
+          "x2": 675.0,
+          "y2": 707.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      }
+    }
+  ],
+  "isHumanReviewRequired": false,
+  "reviewReasons": []
+}

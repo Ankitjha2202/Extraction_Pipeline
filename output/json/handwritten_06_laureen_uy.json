@@ -1,0 +1,217 @@
+{
+  "documentId": "handwritten_06_laureen_uy.pdf",
+  "invoice": {
+    "invoiceNumber": {
+      "value": "0174",
+      "bbox": {
+        "page": 1,
+        "x1": 749.0,
+        "y1": 108.0,
+        "x2": 896.0,
+        "y2": 135.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "invoiceDate": {
+      "value": "MARCH 05 20 26",
+      "bbox": {
+        "page": 1,
+        "x1": 722.0,
+        "y1": 163.0,
+        "x2": 942.0,
+        "y2": 185.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "dueDate": {
+      "value": null,
+      "bbox": null,
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "supplierName": {
+      "value": "Phimex-Press Printing Services",
+      "bbox": {
+        "page": 1,
+        "x1": 25.0,
+        "y1": 457.0,
+        "x2": 150.0,
+        "y2": 468.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "supplierTaxId": {
+      "value": "224-521-987-00000",
+      "bbox": {
+        "page": 1,
+        "x1": 25.0,
+        "y1": 491.0,
+        "x2": 161.0,
+        "y2": 503.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "buyerName": {
+      "value": "DEANNA RUTH F. MARASIGAN MARKETING SERVICES, OPC",
+      "bbox": {
+        "page": 1,
+        "x1": 392.0,
+        "y1": 52.0,
+        "x2": 845.0,
+        "y2": 69.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "buyerTaxId": {
+      "value": "615-734-218-00000",
+      "bbox": {
+        "page": 1,
+        "x1": 496.0,
+        "y1": 111.0,
+        "x2": 643.0,
+        "y2": 129.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "currency": {
+      "value": "PHP",
+      "bbox": {
+        "page": 1,
+        "x1": 25.0,
+        "y1": 457.0,
+        "x2": 150.0,
+        "y2": 468.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "subtotal": {
+      "value": "152,941.18",
+      "bbox": {
+        "page": 1,
+        "x1": 22.0,
+        "y1": 38.0,
+        "x2": 284.0,
+        "y2": 447.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "taxAmount": {
+      "value": "18,352.94",
+      "bbox": {
+        "page": 1,
+        "x1": 292.0,
+        "y1": 318.0,
+        "x2": 947.0,
+        "y2": 351.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "totalAmount": {
+      "value": "171,294.12",
+      "bbox": {
+        "page": 1,
+        "x1": 22.0,
+        "y1": 38.0,
+        "x2": 284.0,
+        "y2": 447.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "amountDue": {
+      "value": "148,352.94",
+      "bbox": {
+        "page": 1,
+        "x1": 292.0,
+        "y1": 318.0,
+        "x2": 947.0,
+        "y2": 351.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "paymentTerms": {
+      "value": null,
+      "bbox": null,
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "purchaseOrderNumber": {
+      "value": null,
+      "bbox": null,
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    }
+  },
+  "lineItems": [
+    {
+      "description": {
+        "value": "ATT: NATURE OF SERVICE CONTENT (INVENTION UNIT) UNIT COST",
+        "bbox": {
+          "page": 1,
+          "x1": 22.0,
+          "y1": 38.0,
+          "x2": 284.0,
+          "y2": 447.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "quantity": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "unitPrice": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxRate": {
+        "value": "12%",
+        "bbox": null,
+        "isHumanReviewRequired": true,
+        "reviewReasons": [
+          "LOW_CONFIDENCE"
+        ]
+      },
+      "taxAmount": {
+        "value": "18,352.94",
+        "bbox": {
+          "page": 1,
+          "x1": 292.0,
+          "y1": 318.0,
+          "x2": 947.0,
+          "y2": 351.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "lineAmount": {
+        "value": "171,294.12",
+        "bbox": {
+          "page": 1,
+          "x1": 22.0,
+          "y1": 38.0,
+          "x2": 284.0,
+          "y2": 447.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      }
+    }
+  ],
+  "isHumanReviewRequired": false,
+  "reviewReasons": []
+}

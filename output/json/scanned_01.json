@@ -1,0 +1,597 @@
+{
+  "documentId": "scanned_01.pdf",
+  "invoice": {
+    "invoiceNumber": {
+      "value": "0628329753 (ZFB)",
+      "bbox": {
+        "page": 1,
+        "x1": 724.0,
+        "y1": 70.0,
+        "x2": 824.0,
+        "y2": 84.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "invoiceDate": {
+      "value": "03.09.2025",
+      "bbox": {
+        "page": 1,
+        "x1": 724.0,
+        "y1": 86.0,
+        "x2": 784.0,
+        "y2": 100.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "dueDate": {
+      "value": "30 day from billing day",
+      "bbox": {
+        "page": 1,
+        "x1": 402.0,
+        "y1": 182.0,
+        "x2": 980.0,
+        "y2": 231.0
+      },
+      "isHumanReviewRequired": true,
+      "reviewReasons": [
+        "LOW_CONFIDENCE"
+      ]
+    },
+    "supplierName": {
+      "value": "Aurora Beverages Singapore Pte. Ltd.",
+      "bbox": {
+        "page": 1,
+        "x1": 53.0,
+        "y1": 948.0,
+        "x2": 929.0,
+        "y2": 955.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "supplierTaxId": {
+      "value": "M2-0098765-K",
+      "bbox": {
+        "page": 1,
+        "x1": 53.0,
+        "y1": 955.0,
+        "x2": 970.0,
+        "y2": 963.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "buyerName": {
+      "value": "Millionaires Taste Pte. Ltd.",
+      "bbox": {
+        "page": 1,
+        "x1": 800.0,
+        "y1": 782.0,
+        "x2": 976.0,
+        "y2": 811.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "buyerTaxId": {
+      "value": "202320307R",
+      "bbox": {
+        "page": 1,
+        "x1": 800.0,
+        "y1": 782.0,
+        "x2": 976.0,
+        "y2": 811.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "currency": {
+      "value": "SGD",
+      "bbox": {
+        "page": 1,
+        "x1": 808.0,
+        "y1": 731.0,
+        "x2": 837.0,
+        "y2": 746.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "subtotal": {
+      "value": "203.50",
+      "bbox": {
+        "page": 1,
+        "x1": 724.0,
+        "y1": 86.0,
+        "x2": 784.0,
+        "y2": 100.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "taxAmount": {
+      "value": "18.32",
+      "bbox": {
+        "page": 1,
+        "x1": 53.0,
+        "y1": 256.0,
+        "x2": 982.0,
+        "y2": 708.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "totalAmount": {
+      "value": "221.82",
+      "bbox": {
+        "page": 1,
+        "x1": 940.0,
+        "y1": 731.0,
+        "x2": 980.0,
+        "y2": 746.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "amountDue": {
+      "value": "221.82",
+      "bbox": {
+        "page": 1,
+        "x1": 940.0,
+        "y1": 731.0,
+        "x2": 980.0,
+        "y2": 746.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "paymentTerms": {
+      "value": null,
+      "bbox": null,
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "purchaseOrderNumber": {
+      "value": "0HBHE9L0",
+      "bbox": {
+        "page": 1,
+        "x1": 402.0,
+        "y1": 182.0,
+        "x2": 980.0,
+        "y2": 231.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    }
+  },
+  "lineItems": [
+    {
+      "description": {
+        "value": "320MLALSCN1X24 Aura SCSG",
+        "bbox": {
+          "page": 1,
+          "x1": 808.0,
+          "y1": 731.0,
+          "x2": 837.0,
+          "y2": 746.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "quantity": {
+        "value": "6.00 CS",
+        "bbox": {
+          "page": 1,
+          "x1": 53.0,
+          "y1": 256.0,
+          "x2": 982.0,
+          "y2": 708.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "unitPrice": {
+        "value": "15.00",
+        "bbox": {
+          "page": 1,
+          "x1": 53.0,
+          "y1": 940.0,
+          "x2": 718.0,
+          "y2": 948.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxRate": {
+        "value": "9%",
+        "bbox": {
+          "page": 1,
+          "x1": 53.0,
+          "y1": 256.0,
+          "x2": 982.0,
+          "y2": 708.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxAmount": {
+        "value": "8.10",
+        "bbox": {
+          "page": 1,
+          "x1": 53.0,
+          "y1": 256.0,
+          "x2": 982.0,
+          "y2": 708.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "lineAmount": {
+        "value": "90.00",
+        "bbox": {
+          "page": 1,
+          "x1": 548.0,
+          "y1": 858.0,
+          "x2": 659.0,
+          "y2": 905.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      }
+    },
+    {
+      "description": {
+        "value": "320MLALSCN1X24 Aura SCSG",
+        "bbox": {
+          "page": 1,
+          "x1": 808.0,
+          "y1": 731.0,
+          "x2": 837.0,
+          "y2": 746.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "quantity": {
+        "value": "1.00 CS",
+        "bbox": {
+          "page": 1,
+          "x1": 53.0,
+          "y1": 256.0,
+          "x2": 982.0,
+          "y2": 708.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "unitPrice": {
+        "value": "0.00",
+        "bbox": {
+          "page": 1,
+          "x1": 548.0,
+          "y1": 858.0,
+          "x2": 659.0,
+          "y2": 905.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxRate": {
+        "value": "0%",
+        "bbox": null,
+        "isHumanReviewRequired": true,
+        "reviewReasons": [
+          "LOW_CONFIDENCE"
+        ]
+      },
+      "taxAmount": {
+        "value": "0.00",
+        "bbox": {
+          "page": 1,
+          "x1": 548.0,
+          "y1": 858.0,
+          "x2": 659.0,
+          "y2": 905.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "lineAmount": {
+        "value": "0.00",
+        "bbox": {
+          "page": 1,
+          "x1": 548.0,
+          "y1": 858.0,
+          "x2": 659.0,
+          "y2": 905.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      }
+    },
+    {
+      "description": {
+        "value": "320MLALSCN1X12 Zeta Gin Ale-KO UTT",
+        "bbox": {
+          "page": 1,
+          "x1": 53.0,
+          "y1": 256.0,
+          "x2": 982.0,
+          "y2": 708.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "quantity": {
+        "value": "4.00 CS",
+        "bbox": {
+          "page": 1,
+          "x1": 53.0,
+          "y1": 256.0,
+          "x2": 982.0,
+          "y2": 708.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "unitPrice": {
+        "value": "9.50",
+        "bbox": {
+          "page": 1,
+          "x1": 53.0,
+          "y1": 256.0,
+          "x2": 982.0,
+          "y2": 708.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxRate": {
+        "value": "9%",
+        "bbox": {
+          "page": 1,
+          "x1": 53.0,
+          "y1": 256.0,
+          "x2": 982.0,
+          "y2": 708.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxAmount": {
+        "value": "3.42",
+        "bbox": null,
+        "isHumanReviewRequired": true,
+        "reviewReasons": [
+          "LOW_CONFIDENCE"
+        ]
+      },
+      "lineAmount": {
+        "value": "38.00",
+        "bbox": {
+          "page": 1,
+          "x1": 53.0,
+          "y1": 940.0,
+          "x2": 718.0,
+          "y2": 948.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      }
+    },
+    {
+      "description": {
+        "value": "320MLALSCN1X12 Zeta Tonic-KO UTT",
+        "bbox": {
+          "page": 1,
+          "x1": 53.0,
+          "y1": 256.0,
+          "x2": 982.0,
+          "y2": 708.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "quantity": {
+        "value": "4.00 CS",
+        "bbox": {
+          "page": 1,
+          "x1": 53.0,
+          "y1": 256.0,
+          "x2": 982.0,
+          "y2": 708.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "unitPrice": {
+        "value": "9.50",
+        "bbox": {
+          "page": 1,
+          "x1": 53.0,
+          "y1": 256.0,
+          "x2": 982.0,
+          "y2": 708.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxRate": {
+        "value": "9%",
+        "bbox": {
+          "page": 1,
+          "x1": 53.0,
+          "y1": 256.0,
+          "x2": 982.0,
+          "y2": 708.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxAmount": {
+        "value": "3.42",
+        "bbox": null,
+        "isHumanReviewRequired": true,
+        "reviewReasons": [
+          "LOW_CONFIDENCE"
+        ]
+      },
+      "lineAmount": {
+        "value": "38.00",
+        "bbox": {
+          "page": 1,
+          "x1": 53.0,
+          "y1": 940.0,
+          "x2": 718.0,
+          "y2": 948.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      }
+    },
+    {
+      "description": {
+        "value": "320MLALSCN1X12 Zeta Soda Wtr-KO UTT",
+        "bbox": {
+          "page": 1,
+          "x1": 53.0,
+          "y1": 256.0,
+          "x2": 982.0,
+          "y2": 708.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "quantity": {
+        "value": "1.00 CS",
+        "bbox": {
+          "page": 1,
+          "x1": 53.0,
+          "y1": 256.0,
+          "x2": 982.0,
+          "y2": 708.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "unitPrice": {
+        "value": "0.00",
+        "bbox": {
+          "page": 1,
+          "x1": 548.0,
+          "y1": 858.0,
+          "x2": 659.0,
+          "y2": 905.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxRate": {
+        "value": "0%",
+        "bbox": null,
+        "isHumanReviewRequired": true,
+        "reviewReasons": [
+          "LOW_CONFIDENCE"
+        ]
+      },
+      "taxAmount": {
+        "value": "0.00",
+        "bbox": {
+          "page": 1,
+          "x1": 548.0,
+          "y1": 858.0,
+          "x2": 659.0,
+          "y2": 905.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "lineAmount": {
+        "value": "0.00",
+        "bbox": {
+          "page": 1,
+          "x1": 548.0,
+          "y1": 858.0,
+          "x2": 659.0,
+          "y2": 905.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      }
+    },
+    {
+      "description": {
+        "value": "320MLALSCN1X12 AURA ZRO SGR UTCS",
+        "bbox": {
+          "page": 1,
+          "x1": 53.0,
+          "y1": 256.0,
+          "x2": 982.0,
+          "y2": 708.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "quantity": {
+        "value": "5.00 CS",
+        "bbox": {
+          "page": 1,
+          "x1": 53.0,
+          "y1": 256.0,
+          "x2": 982.0,
+          "y2": 708.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "unitPrice": {
+        "value": "7.50",
+        "bbox": {
+          "page": 1,
+          "x1": 53.0,
+          "y1": 256.0,
+          "x2": 982.0,
+          "y2": 708.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxRate": {
+        "value": "9%",
+        "bbox": {
+          "page": 1,
+          "x1": 53.0,
+          "y1": 256.0,
+          "x2": 982.0,
+          "y2": 708.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxAmount": {
+        "value": "3.38",
+        "bbox": null,
+        "isHumanReviewRequired": true,
+        "reviewReasons": [
+          "LOW_CONFIDENCE"
+        ]
+      },
+      "lineAmount": {
+        "value": "37.50",
+        "bbox": {
+          "page": 1,
+          "x1": 53.0,
+          "y1": 256.0,
+          "x2": 982.0,
+          "y2": 708.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      }
+    }
+  ],
+  "isHumanReviewRequired": false,
+  "reviewReasons": []
+}

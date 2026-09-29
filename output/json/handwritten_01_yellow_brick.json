@@ -1,0 +1,233 @@
+{
+  "documentId": "handwritten_01_yellow_brick.pdf",
+  "invoice": {
+    "invoiceNumber": {
+      "value": "Nº0000047",
+      "bbox": {
+        "page": 1,
+        "x1": 403.0,
+        "y1": 238.0,
+        "x2": 535.0,
+        "y2": 264.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "invoiceDate": {
+      "value": "11/24/2025",
+      "bbox": {
+        "page": 1,
+        "x1": 474.0,
+        "y1": 275.0,
+        "x2": 549.0,
+        "y2": 291.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "dueDate": {
+      "value": null,
+      "bbox": null,
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "supplierName": {
+      "value": "GOLDEN ANVIL MEDIA GROUP INC.",
+      "bbox": {
+        "page": 1,
+        "x1": 236.0,
+        "y1": 163.0,
+        "x2": 485.0,
+        "y2": 178.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "supplierTaxId": {
+      "value": "008-471-093-00000",
+      "bbox": {
+        "page": 1,
+        "x1": 236.0,
+        "y1": 183.0,
+        "x2": 389.0,
+        "y2": 194.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "buyerName": {
+      "value": "BF JADE E-SERVICES PHILIPPINES INC.",
+      "bbox": {
+        "page": 1,
+        "x1": 282.0,
+        "y1": 316.0,
+        "x2": 559.0,
+        "y2": 352.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "buyerTaxId": {
+      "value": "008-183-175-00000",
+      "bbox": {
+        "page": 1,
+        "x1": 282.0,
+        "y1": 316.0,
+        "x2": 559.0,
+        "y2": 352.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "currency": {
+      "value": "PHP",
+      "bbox": null,
+      "isHumanReviewRequired": true,
+      "reviewReasons": [
+        "LOW_CONFIDENCE"
+      ]
+    },
+    "subtotal": {
+      "value": "701,193.50",
+      "bbox": {
+        "page": 1,
+        "x1": 148.0,
+        "y1": 681.0,
+        "x2": 335.0,
+        "y2": 782.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "taxAmount": {
+      "value": "89,137.22",
+      "bbox": {
+        "page": 1,
+        "x1": 148.0,
+        "y1": 681.0,
+        "x2": 335.0,
+        "y2": 782.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "totalAmount": {
+      "value": "785,280.72",
+      "bbox": {
+        "page": 1,
+        "x1": 362.0,
+        "y1": 667.0,
+        "x2": 571.0,
+        "y2": 840.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "amountDue": {
+      "value": "771,257.85",
+      "bbox": {
+        "page": 1,
+        "x1": 362.0,
+        "y1": 667.0,
+        "x2": 571.0,
+        "y2": 840.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "paymentTerms": {
+      "value": "CASH SALES",
+      "bbox": {
+        "page": 1,
+        "x1": 171.0,
+        "y1": 280.0,
+        "x2": 218.0,
+        "y2": 293.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "purchaseOrderNumber": {
+      "value": null,
+      "bbox": null,
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    }
+  },
+  "lineItems": [
+    {
+      "description": {
+        "value": "ZALORA 11.11 KICK OFF PARTY",
+        "bbox": {
+          "page": 1,
+          "x1": 145.0,
+          "y1": 385.0,
+          "x2": 565.0,
+          "y2": 660.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "quantity": {
+        "value": "1",
+        "bbox": {
+          "page": 1,
+          "x1": 474.0,
+          "y1": 275.0,
+          "x2": 549.0,
+          "y2": 291.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "unitPrice": {
+        "value": "785,280.72",
+        "bbox": {
+          "page": 1,
+          "x1": 362.0,
+          "y1": 667.0,
+          "x2": 571.0,
+          "y2": 840.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxRate": {
+        "value": "12%",
+        "bbox": null,
+        "isHumanReviewRequired": true,
+        "reviewReasons": [
+          "LOW_CONFIDENCE"
+        ]
+      },
+      "taxAmount": {
+        "value": "89,137.22",
+        "bbox": {
+          "page": 1,
+          "x1": 148.0,
+          "y1": 681.0,
+          "x2": 335.0,
+          "y2": 782.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "lineAmount": {
+        "value": "785,280.72",
+        "bbox": {
+          "page": 1,
+          "x1": 362.0,
+          "y1": 667.0,
+          "x2": 571.0,
+          "y2": 840.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      }
+    }
+  ],
+  "isHumanReviewRequired": true,
+  "reviewReasons": [
+    "MANDATORY_FIELD_REVIEW"
+  ]
+}

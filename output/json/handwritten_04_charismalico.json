@@ -1,0 +1,227 @@
+{
+  "documentId": "handwritten_04_charismalico.pdf",
+  "invoice": {
+    "invoiceNumber": {
+      "value": "0116",
+      "bbox": {
+        "page": 1,
+        "x1": 799.0,
+        "y1": 95.0,
+        "x2": 952.0,
+        "y2": 125.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "invoiceDate": {
+      "value": "OCTOBER 07, 2025",
+      "bbox": {
+        "page": 1,
+        "x1": 744.0,
+        "y1": 151.0,
+        "x2": 915.0,
+        "y2": 170.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "dueDate": {
+      "value": null,
+      "bbox": null,
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "supplierName": {
+      "value": "RENZ ADRIAN P. CORTEZ PHOTOGRAPHY SERVICES",
+      "bbox": {
+        "page": 1,
+        "x1": 414.0,
+        "y1": 69.0,
+        "x2": 580.0,
+        "y2": 78.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "supplierTaxId": {
+      "value": "008-183-175",
+      "bbox": {
+        "page": 1,
+        "x1": 744.0,
+        "y1": 181.0,
+        "x2": 876.0,
+        "y2": 200.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "buyerName": {
+      "value": "BF JADE E-SERVICES PHILIPPINES INC.",
+      "bbox": {
+        "page": 1,
+        "x1": 11.0,
+        "y1": 151.0,
+        "x2": 438.0,
+        "y2": 172.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "buyerTaxId": {
+      "value": "008-183-175",
+      "bbox": {
+        "page": 1,
+        "x1": 744.0,
+        "y1": 181.0,
+        "x2": 876.0,
+        "y2": 200.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "currency": {
+      "value": "PHP",
+      "bbox": null,
+      "isHumanReviewRequired": true,
+      "reviewReasons": [
+        "LOW_CONFIDENCE"
+      ]
+    },
+    "subtotal": {
+      "value": "200000.00",
+      "bbox": {
+        "page": 1,
+        "x1": 10.0,
+        "y1": 514.0,
+        "x2": 206.0,
+        "y2": 526.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "taxAmount": {
+      "value": "24000.00",
+      "bbox": {
+        "page": 1,
+        "x1": 73.0,
+        "y1": 452.0,
+        "x2": 354.0,
+        "y2": 464.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "totalAmount": {
+      "value": "204000.00",
+      "bbox": {
+        "page": 1,
+        "x1": 73.0,
+        "y1": 452.0,
+        "x2": 354.0,
+        "y2": 464.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "amountDue": {
+      "value": "180000.00",
+      "bbox": {
+        "page": 1,
+        "x1": 743.0,
+        "y1": 213.0,
+        "x2": 993.0,
+        "y2": 533.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "paymentTerms": {
+      "value": null,
+      "bbox": null,
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "purchaseOrderNumber": {
+      "value": null,
+      "bbox": null,
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    }
+  },
+  "lineItems": [
+    {
+      "description": {
+        "value": "PD — ZALORA 10-10 & 11-11",
+        "bbox": {
+          "page": 1,
+          "x1": 7.0,
+          "y1": 214.0,
+          "x2": 729.0,
+          "y2": 430.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "quantity": {
+        "value": "1",
+        "bbox": {
+          "page": 1,
+          "x1": 799.0,
+          "y1": 95.0,
+          "x2": 952.0,
+          "y2": 125.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "unitPrice": {
+        "value": "204000.00",
+        "bbox": {
+          "page": 1,
+          "x1": 73.0,
+          "y1": 452.0,
+          "x2": 354.0,
+          "y2": 464.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxRate": {
+        "value": "12%",
+        "bbox": null,
+        "isHumanReviewRequired": true,
+        "reviewReasons": [
+          "LOW_CONFIDENCE"
+        ]
+      },
+      "taxAmount": {
+        "value": "24000.00",
+        "bbox": {
+          "page": 1,
+          "x1": 73.0,
+          "y1": 452.0,
+          "x2": 354.0,
+          "y2": 464.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "lineAmount": {
+        "value": "204000.00",
+        "bbox": {
+          "page": 1,
+          "x1": 73.0,
+          "y1": 452.0,
+          "x2": 354.0,
+          "y2": 464.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      }
+    }
+  ],
+  "isHumanReviewRequired": true,
+  "reviewReasons": [
+    "MANDATORY_FIELD_REVIEW"
+  ]
+}

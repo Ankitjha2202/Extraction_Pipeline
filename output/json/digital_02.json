@@ -1,0 +1,209 @@
+{
+  "documentId": "digital_02.pdf",
+  "invoice": {
+    "invoiceNumber": {
+      "value": "RSCT0008",
+      "bbox": {
+        "page": 1,
+        "x1": 572.0,
+        "y1": 220.0,
+        "x2": 721.0,
+        "y2": 233.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "invoiceDate": {
+      "value": "25/02/26",
+      "bbox": {
+        "page": 1,
+        "x1": 605.0,
+        "y1": 135.0,
+        "x2": 687.0,
+        "y2": 151.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "dueDate": {
+      "value": null,
+      "bbox": null,
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "supplierName": {
+      "value": "Tan Wei Ling",
+      "bbox": {
+        "page": 1,
+        "x1": 103.0,
+        "y1": 67.0,
+        "x2": 156.0,
+        "y2": 78.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "supplierTaxId": {
+      "value": null,
+      "bbox": null,
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "buyerName": {
+      "value": "Jade Eservices Malaysia Sdn Bhd",
+      "bbox": {
+        "page": 1,
+        "x1": 95.0,
+        "y1": 353.0,
+        "x2": 350.0,
+        "y2": 387.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "buyerTaxId": {
+      "value": null,
+      "bbox": null,
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "currency": {
+      "value": "MYR",
+      "bbox": {
+        "page": 1,
+        "x1": 627.0,
+        "y1": 866.0,
+        "x2": 730.0,
+        "y2": 885.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "subtotal": {
+      "value": "400.00",
+      "bbox": {
+        "page": 1,
+        "x1": 692.0,
+        "y1": 672.0,
+        "x2": 730.0,
+        "y2": 686.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "taxAmount": {
+      "value": null,
+      "bbox": null,
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "totalAmount": {
+      "value": "400.00",
+      "bbox": {
+        "page": 1,
+        "x1": 692.0,
+        "y1": 672.0,
+        "x2": 730.0,
+        "y2": 686.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "amountDue": {
+      "value": "400.00",
+      "bbox": {
+        "page": 1,
+        "x1": 692.0,
+        "y1": 672.0,
+        "x2": 730.0,
+        "y2": 686.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "paymentTerms": {
+      "value": null,
+      "bbox": null,
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "purchaseOrderNumber": {
+      "value": "51000383499",
+      "bbox": {
+        "page": 1,
+        "x1": 574.0,
+        "y1": 184.0,
+        "x2": 717.0,
+        "y2": 198.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    }
+  },
+  "lineItems": [
+    {
+      "description": {
+        "value": "Venue/ rental charges",
+        "bbox": {
+          "page": 1,
+          "x1": 91.0,
+          "y1": 565.0,
+          "x2": 735.0,
+          "y2": 663.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "quantity": {
+        "value": "1",
+        "bbox": {
+          "page": 1,
+          "x1": 103.0,
+          "y1": 109.0,
+          "x2": 144.0,
+          "y2": 118.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "unitPrice": {
+        "value": "400.00",
+        "bbox": {
+          "page": 1,
+          "x1": 692.0,
+          "y1": 672.0,
+          "x2": 730.0,
+          "y2": 686.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxRate": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxAmount": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "lineAmount": {
+        "value": "400.00",
+        "bbox": {
+          "page": 1,
+          "x1": 692.0,
+          "y1": 672.0,
+          "x2": 730.0,
+          "y2": 686.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      }
+    }
+  ],
+  "isHumanReviewRequired": false,
+  "reviewReasons": []
+}

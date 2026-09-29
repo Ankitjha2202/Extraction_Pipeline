@@ -1,0 +1,357 @@
+{
+  "documentId": "scanned_02.pdf",
+  "invoice": {
+    "invoiceNumber": {
+      "value": "INV25080553",
+      "bbox": {
+        "page": 1,
+        "x1": 376.0,
+        "y1": 57.0,
+        "x2": 639.0,
+        "y2": 148.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "invoiceDate": {
+      "value": "2/9/2025",
+      "bbox": {
+        "page": 1,
+        "x1": 48.0,
+        "y1": 846.0,
+        "x2": 146.0,
+        "y2": 862.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "dueDate": {
+      "value": null,
+      "bbox": null,
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "supplierName": {
+      "value": "Meridian Finefood Pte Ltd",
+      "bbox": {
+        "page": 1,
+        "x1": 468.0,
+        "y1": 781.0,
+        "x2": 604.0,
+        "y2": 792.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "supplierTaxId": {
+      "value": "201856234K",
+      "bbox": {
+        "page": 1,
+        "x1": 52.0,
+        "y1": 124.0,
+        "x2": 227.0,
+        "y2": 135.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "buyerName": {
+      "value": "Millionaires Taste Pte Ltd",
+      "bbox": {
+        "page": 1,
+        "x1": 72.0,
+        "y1": 169.0,
+        "x2": 184.0,
+        "y2": 180.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "buyerTaxId": {
+      "value": null,
+      "bbox": null,
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "currency": {
+      "value": "SGD",
+      "bbox": {
+        "page": 1,
+        "x1": 42.0,
+        "y1": 105.0,
+        "x2": 185.0,
+        "y2": 114.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "subtotal": {
+      "value": "435.00",
+      "bbox": {
+        "page": 1,
+        "x1": 48.0,
+        "y1": 273.0,
+        "x2": 639.0,
+        "y2": 777.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "taxAmount": {
+      "value": "39.15",
+      "bbox": {
+        "page": 1,
+        "x1": 48.0,
+        "y1": 273.0,
+        "x2": 639.0,
+        "y2": 777.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "totalAmount": {
+      "value": "474.15",
+      "bbox": {
+        "page": 1,
+        "x1": 48.0,
+        "y1": 273.0,
+        "x2": 639.0,
+        "y2": 777.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "amountDue": {
+      "value": "474.15",
+      "bbox": {
+        "page": 1,
+        "x1": 48.0,
+        "y1": 273.0,
+        "x2": 639.0,
+        "y2": 777.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "paymentTerms": {
+      "value": "Net 30 days",
+      "bbox": {
+        "page": 1,
+        "x1": 376.0,
+        "y1": 57.0,
+        "x2": 639.0,
+        "y2": 148.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "purchaseOrderNumber": {
+      "value": "T-WRIOD0JK",
+      "bbox": {
+        "page": 1,
+        "x1": 48.0,
+        "y1": 273.0,
+        "x2": 639.0,
+        "y2": 777.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    }
+  },
+  "lineItems": [
+    {
+      "description": {
+        "value": "Illy Coffee Bean CLASSIC Roast 3kg (Ctn x 2 Unit)",
+        "bbox": {
+          "page": 1,
+          "x1": 48.0,
+          "y1": 273.0,
+          "x2": 639.0,
+          "y2": 777.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "quantity": {
+        "value": "1",
+        "bbox": {
+          "page": 1,
+          "x1": 400.0,
+          "y1": 220.0,
+          "x2": 434.0,
+          "y2": 232.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "unitPrice": {
+        "value": "195.00",
+        "bbox": {
+          "page": 1,
+          "x1": 48.0,
+          "y1": 273.0,
+          "x2": 639.0,
+          "y2": 777.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxRate": {
+        "value": "9%",
+        "bbox": null,
+        "isHumanReviewRequired": true,
+        "reviewReasons": [
+          "LOW_CONFIDENCE"
+        ]
+      },
+      "taxAmount": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "lineAmount": {
+        "value": "195.00",
+        "bbox": {
+          "page": 1,
+          "x1": 48.0,
+          "y1": 273.0,
+          "x2": 639.0,
+          "y2": 777.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      }
+    },
+    {
+      "description": {
+        "value": "Illy Coffee Bean DECAF (Blue) 250gm (Ctn x 12 Unit)",
+        "bbox": {
+          "page": 1,
+          "x1": 48.0,
+          "y1": 273.0,
+          "x2": 639.0,
+          "y2": 777.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "quantity": {
+        "value": "6",
+        "bbox": {
+          "page": 1,
+          "x1": 72.0,
+          "y1": 220.0,
+          "x2": 143.0,
+          "y2": 231.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "unitPrice": {
+        "value": "18.00",
+        "bbox": {
+          "page": 1,
+          "x1": 48.0,
+          "y1": 273.0,
+          "x2": 639.0,
+          "y2": 777.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxRate": {
+        "value": "9%",
+        "bbox": null,
+        "isHumanReviewRequired": true,
+        "reviewReasons": [
+          "LOW_CONFIDENCE"
+        ]
+      },
+      "taxAmount": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "lineAmount": {
+        "value": "108.00",
+        "bbox": {
+          "page": 1,
+          "x1": 48.0,
+          "y1": 273.0,
+          "x2": 639.0,
+          "y2": 777.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      }
+    },
+    {
+      "description": {
+        "value": "Caotina Swiss PRONTO Chocolate Powder 1kg (Ctn x 6 Unit)",
+        "bbox": {
+          "page": 1,
+          "x1": 48.0,
+          "y1": 273.0,
+          "x2": 639.0,
+          "y2": 777.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "quantity": {
+        "value": "6",
+        "bbox": {
+          "page": 1,
+          "x1": 72.0,
+          "y1": 220.0,
+          "x2": 143.0,
+          "y2": 231.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "unitPrice": {
+        "value": "22.00",
+        "bbox": {
+          "page": 1,
+          "x1": 48.0,
+          "y1": 273.0,
+          "x2": 639.0,
+          "y2": 777.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxRate": {
+        "value": "9%",
+        "bbox": null,
+        "isHumanReviewRequired": true,
+        "reviewReasons": [
+          "LOW_CONFIDENCE"
+        ]
+      },
+      "taxAmount": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "lineAmount": {
+        "value": "132.00",
+        "bbox": {
+          "page": 1,
+          "x1": 48.0,
+          "y1": 273.0,
+          "x2": 639.0,
+          "y2": 777.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      }
+    }
+  ],
+  "isHumanReviewRequired": false,
+  "reviewReasons": []
+}

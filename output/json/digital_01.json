@@ -1,0 +1,265 @@
+{
+  "documentId": "digital_01.pdf",
+  "invoice": {
+    "invoiceNumber": {
+      "value": "CSOS 202602-931",
+      "bbox": {
+        "page": 1,
+        "x1": 517.0,
+        "y1": 139.0,
+        "x2": 652.0,
+        "y2": 153.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "invoiceDate": {
+      "value": "02ND FEB 2026",
+      "bbox": {
+        "page": 1,
+        "x1": 582.0,
+        "y1": 157.0,
+        "x2": 701.0,
+        "y2": 171.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "dueDate": {
+      "value": null,
+      "bbox": null,
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "supplierName": {
+      "value": "CRESTLINE STAFFING AND OUTSOURCING SOLUTIONS SDN BHD",
+      "bbox": {
+        "page": 1,
+        "x1": 188.0,
+        "y1": 18.0,
+        "x2": 454.0,
+        "y2": 31.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "supplierTaxId": {
+      "value": "W10-4487-32000091",
+      "bbox": {
+        "page": 1,
+        "x1": 533.0,
+        "y1": 176.0,
+        "x2": 646.0,
+        "y2": 189.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "buyerName": {
+      "value": "Jade Eservices Malaysia Sdn. Bhd.",
+      "bbox": {
+        "page": 1,
+        "x1": 23.0,
+        "y1": 153.0,
+        "x2": 321.0,
+        "y2": 168.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "buyerTaxId": {
+      "value": null,
+      "bbox": null,
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "currency": {
+      "value": "RM",
+      "bbox": {
+        "page": 1,
+        "x1": 548.0,
+        "y1": 193.0,
+        "x2": 701.0,
+        "y2": 206.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "subtotal": {
+      "value": "13,614.01",
+      "bbox": {
+        "page": 1,
+        "x1": 19.0,
+        "y1": 277.0,
+        "x2": 703.0,
+        "y2": 728.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "taxAmount": {
+      "value": "150.47",
+      "bbox": {
+        "page": 1,
+        "x1": 19.0,
+        "y1": 277.0,
+        "x2": 703.0,
+        "y2": 728.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "totalAmount": {
+      "value": "13,764.48",
+      "bbox": {
+        "page": 1,
+        "x1": 19.0,
+        "y1": 277.0,
+        "x2": 703.0,
+        "y2": 728.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "amountDue": {
+      "value": "13,764.48",
+      "bbox": {
+        "page": 1,
+        "x1": 19.0,
+        "y1": 277.0,
+        "x2": 703.0,
+        "y2": 728.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "paymentTerms": {
+      "value": "30 DAYS",
+      "bbox": {
+        "page": 1,
+        "x1": 548.0,
+        "y1": 193.0,
+        "x2": 701.0,
+        "y2": 206.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "purchaseOrderNumber": {
+      "value": "5200004937 - BPO 2026",
+      "bbox": {
+        "page": 1,
+        "x1": 479.0,
+        "y1": 211.0,
+        "x2": 701.0,
+        "y2": 224.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    }
+  },
+  "lineItems": [
+    {
+      "description": {
+        "value": "Cost of Labor 26th Jan 2026 to 25th Feb 2026",
+        "bbox": {
+          "page": 1,
+          "x1": 19.0,
+          "y1": 277.0,
+          "x2": 703.0,
+          "y2": 728.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "quantity": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "unitPrice": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxRate": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxAmount": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "lineAmount": {
+        "value": "11,733.10",
+        "bbox": {
+          "page": 1,
+          "x1": 19.0,
+          "y1": 277.0,
+          "x2": 703.0,
+          "y2": 728.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      }
+    },
+    {
+      "description": {
+        "value": "Management and Processing Fee",
+        "bbox": {
+          "page": 1,
+          "x1": 19.0,
+          "y1": 277.0,
+          "x2": 703.0,
+          "y2": 728.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "quantity": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "unitPrice": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxRate": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxAmount": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "lineAmount": {
+        "value": "1,880.91",
+        "bbox": {
+          "page": 1,
+          "x1": 19.0,
+          "y1": 277.0,
+          "x2": 703.0,
+          "y2": 728.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      }
+    }
+  ],
+  "isHumanReviewRequired": false,
+  "reviewReasons": []
+}

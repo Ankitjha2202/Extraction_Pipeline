@@ -1,0 +1,127 @@
+{
+  "invoicesProcessed": 15,
+  "totalFieldsExtracted": 422,
+  "fieldsRequiringHumanReview": 19,
+  "mandatoryFieldsSuccessfullyExtracted": 90,
+  "mandatoryFieldsRequiringHumanReview": 5,
+  "invoicesRequiringHumanReview": 5,
+  "missedReviewRate": null,
+  "missedReviewNote": "Provide evaluation/ground_truth.json and re-run python -m src.main metrics --gt evaluation/ground_truth.json",
+  "perDocument": [
+    {
+      "documentId": "digital_01.pdf",
+      "isHumanReviewRequired": false,
+      "reviewReasons": [],
+      "fieldsExtracted": 16,
+      "fieldsRequiringReview": 0
+    },
+    {
+      "documentId": "digital_02.pdf",
+      "isHumanReviewRequired": false,
+      "reviewReasons": [],
+      "fieldsExtracted": 13,
+      "fieldsRequiringReview": 0
+    },
+    {
+      "documentId": "digital_03_multipage.pdf",
+      "isHumanReviewRequired": true,
+      "reviewReasons": [
+        "MANDATORY_FIELD_REVIEW"
+      ],
+      "fieldsExtracted": 15,
+      "fieldsRequiringReview": 1
+    },
+    {
+      "documentId": "handwritten_01_yellow_brick.pdf",
+      "isHumanReviewRequired": true,
+      "reviewReasons": [
+        "MANDATORY_FIELD_REVIEW"
+      ],
+      "fieldsExtracted": 18,
+      "fieldsRequiringReview": 2
+    },
+    {
+      "documentId": "handwritten_02_patricia_gapay.pdf",
+      "isHumanReviewRequired": true,
+      "reviewReasons": [
+        "MANDATORY_FIELD_REVIEW"
+      ],
+      "fieldsExtracted": 11,
+      "fieldsRequiringReview": 1
+    },
+    {
+      "documentId": "handwritten_03_filling_station.pdf",
+      "isHumanReviewRequired": true,
+      "reviewReasons": [
+        "MANDATORY_FIELD_REVIEW"
+      ],
+      "fieldsExtracted": 40,
+      "fieldsRequiringReview": 1
+    },
+    {
+      "documentId": "handwritten_04_charismalico.pdf",
+      "isHumanReviewRequired": true,
+      "reviewReasons": [
+        "MANDATORY_FIELD_REVIEW"
+      ],
+      "fieldsExtracted": 17,
+      "fieldsRequiringReview": 2
+    },
+    {
+      "documentId": "handwritten_05_bmpc33.pdf",
+      "isHumanReviewRequired": false,
+      "reviewReasons": [],
+      "fieldsExtracted": 16,
+      "fieldsRequiringReview": 0
+    },
+    {
+      "documentId": "handwritten_06_laureen_uy.pdf",
+      "isHumanReviewRequired": false,
+      "reviewReasons": [],
+      "fieldsExtracted": 15,
+      "fieldsRequiringReview": 1
+    },
+    {
+      "documentId": "multilingual_01_hongkong.pdf",
+      "isHumanReviewRequired": false,
+      "reviewReasons": [],
+      "fieldsExtracted": 63,
+      "fieldsRequiringReview": 0
+    },
+    {
+      "documentId": "multilingual_02_vietnam.pdf",
+      "isHumanReviewRequired": false,
+      "reviewReasons": [],
+      "fieldsExtracted": 17,
+      "fieldsRequiringReview": 0
+    },
+    {
+      "documentId": "multilingual_03_singapore.pdf",
+      "isHumanReviewRequired": false,
+      "reviewReasons": [],
+      "fieldsExtracted": 68,
+      "fieldsRequiringReview": 0
+    },
+    {
+      "documentId": "scanned_01.pdf",
+      "isHumanReviewRequired": false,
+      "reviewReasons": [],
+      "fieldsExtracted": 49,
+      "fieldsRequiringReview": 6
+    },
+    {
+      "documentId": "scanned_02.pdf",
+      "isHumanReviewRequired": false,
+      "reviewReasons": [],
+      "fieldsExtracted": 27,
+      "fieldsRequiringReview": 3
+    },
+    {
+      "documentId": "scanned_03_mj_wines.pdf",
+      "isHumanReviewRequired": false,
+      "reviewReasons": [],
+      "fieldsExtracted": 37,
+      "fieldsRequiringReview": 2
+    }
+  ]
+}

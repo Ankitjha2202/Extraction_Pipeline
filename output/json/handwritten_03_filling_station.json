@@ -1,0 +1,597 @@
+{
+  "documentId": "handwritten_03_filling_station.pdf",
+  "invoice": {
+    "invoiceNumber": {
+      "value": "29769",
+      "bbox": {
+        "page": 1,
+        "x1": 597.0,
+        "y1": 109.0,
+        "x2": 656.0,
+        "y2": 128.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "invoiceDate": {
+      "value": "Nov 7 2025",
+      "bbox": {
+        "page": 1,
+        "x1": 558.0,
+        "y1": 135.0,
+        "x2": 637.0,
+        "y2": 155.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "dueDate": {
+      "value": null,
+      "bbox": null,
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "supplierName": {
+      "value": "AMBER LANE BAR-CAFÉ Owned & Operated By Marisol-Ventura Corp.",
+      "bbox": {
+        "page": 1,
+        "x1": 317.0,
+        "y1": 37.0,
+        "x2": 519.0,
+        "y2": 53.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "supplierTaxId": {
+      "value": "238,605,217,00000",
+      "bbox": {
+        "page": 1,
+        "x1": 319.0,
+        "y1": 79.0,
+        "x2": 437.0,
+        "y2": 86.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "buyerName": {
+      "value": "BF JADE E SERVICES PHILS INC",
+      "bbox": {
+        "page": 1,
+        "x1": 345.0,
+        "y1": 176.0,
+        "x2": 642.0,
+        "y2": 191.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "buyerTaxId": {
+      "value": "008-183-175-000",
+      "bbox": {
+        "page": 1,
+        "x1": 345.0,
+        "y1": 197.0,
+        "x2": 572.0,
+        "y2": 212.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "currency": {
+      "value": "PHP",
+      "bbox": null,
+      "isHumanReviewRequired": true,
+      "reviewReasons": [
+        "LOW_CONFIDENCE"
+      ]
+    },
+    "subtotal": {
+      "value": "4364.29",
+      "bbox": {
+        "page": 1,
+        "x1": 339.0,
+        "y1": 465.0,
+        "x2": 477.0,
+        "y2": 532.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "taxAmount": {
+      "value": "523.71",
+      "bbox": {
+        "page": 1,
+        "x1": 339.0,
+        "y1": 465.0,
+        "x2": 477.0,
+        "y2": 532.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "totalAmount": {
+      "value": "5324.43",
+      "bbox": {
+        "page": 1,
+        "x1": 379.0,
+        "y1": 591.0,
+        "x2": 457.0,
+        "y2": 608.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "amountDue": {
+      "value": "5324.43",
+      "bbox": {
+        "page": 1,
+        "x1": 379.0,
+        "y1": 591.0,
+        "x2": 457.0,
+        "y2": 608.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "paymentTerms": {
+      "value": "CASH SALES",
+      "bbox": {
+        "page": 1,
+        "x1": 369.0,
+        "y1": 131.0,
+        "x2": 432.0,
+        "y2": 151.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "purchaseOrderNumber": {
+      "value": null,
+      "bbox": null,
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    }
+  },
+  "lineItems": [
+    {
+      "description": {
+        "value": "CALI BACON PIZZA",
+        "bbox": {
+          "page": 1,
+          "x1": 339.0,
+          "y1": 256.0,
+          "x2": 657.0,
+          "y2": 450.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "quantity": {
+        "value": "1",
+        "bbox": {
+          "page": 1,
+          "x1": 345.0,
+          "y1": 197.0,
+          "x2": 572.0,
+          "y2": 212.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "unitPrice": {
+        "value": "628",
+        "bbox": {
+          "page": 1,
+          "x1": 339.0,
+          "y1": 256.0,
+          "x2": 657.0,
+          "y2": 450.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxRate": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxAmount": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "lineAmount": {
+        "value": "628",
+        "bbox": {
+          "page": 1,
+          "x1": 339.0,
+          "y1": 256.0,
+          "x2": 657.0,
+          "y2": 450.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      }
+    },
+    {
+      "description": {
+        "value": "Y - BIRD",
+        "bbox": {
+          "page": 1,
+          "x1": 339.0,
+          "y1": 256.0,
+          "x2": 657.0,
+          "y2": 450.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "quantity": {
+        "value": "2",
+        "bbox": {
+          "page": 1,
+          "x1": 597.0,
+          "y1": 109.0,
+          "x2": 656.0,
+          "y2": 128.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "unitPrice": {
+        "value": "1596",
+        "bbox": {
+          "page": 1,
+          "x1": 339.0,
+          "y1": 256.0,
+          "x2": 657.0,
+          "y2": 450.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxRate": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxAmount": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "lineAmount": {
+        "value": "1596",
+        "bbox": {
+          "page": 1,
+          "x1": 339.0,
+          "y1": 256.0,
+          "x2": 657.0,
+          "y2": 450.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      }
+    },
+    {
+      "description": {
+        "value": "PLAIN RICE",
+        "bbox": {
+          "page": 1,
+          "x1": 339.0,
+          "y1": 256.0,
+          "x2": 657.0,
+          "y2": 450.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "quantity": {
+        "value": "9",
+        "bbox": {
+          "page": 1,
+          "x1": 597.0,
+          "y1": 109.0,
+          "x2": 656.0,
+          "y2": 128.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "unitPrice": {
+        "value": "405",
+        "bbox": {
+          "page": 1,
+          "x1": 339.0,
+          "y1": 256.0,
+          "x2": 657.0,
+          "y2": 450.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxRate": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxAmount": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "lineAmount": {
+        "value": "405",
+        "bbox": {
+          "page": 1,
+          "x1": 339.0,
+          "y1": 256.0,
+          "x2": 657.0,
+          "y2": 450.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      }
+    },
+    {
+      "description": {
+        "value": "LASAGNA",
+        "bbox": {
+          "page": 1,
+          "x1": 339.0,
+          "y1": 256.0,
+          "x2": 657.0,
+          "y2": 450.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "quantity": {
+        "value": "2",
+        "bbox": {
+          "page": 1,
+          "x1": 597.0,
+          "y1": 109.0,
+          "x2": 656.0,
+          "y2": 128.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "unitPrice": {
+        "value": "1194",
+        "bbox": {
+          "page": 1,
+          "x1": 339.0,
+          "y1": 256.0,
+          "x2": 657.0,
+          "y2": 450.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxRate": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxAmount": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "lineAmount": {
+        "value": "1194",
+        "bbox": {
+          "page": 1,
+          "x1": 339.0,
+          "y1": 256.0,
+          "x2": 657.0,
+          "y2": 450.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      }
+    },
+    {
+      "description": {
+        "value": "NACHOS",
+        "bbox": {
+          "page": 1,
+          "x1": 339.0,
+          "y1": 256.0,
+          "x2": 657.0,
+          "y2": 450.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "quantity": {
+        "value": "1",
+        "bbox": {
+          "page": 1,
+          "x1": 345.0,
+          "y1": 197.0,
+          "x2": 572.0,
+          "y2": 212.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "unitPrice": {
+        "value": "595",
+        "bbox": {
+          "page": 1,
+          "x1": 339.0,
+          "y1": 256.0,
+          "x2": 657.0,
+          "y2": 450.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxRate": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxAmount": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "lineAmount": {
+        "value": "595",
+        "bbox": {
+          "page": 1,
+          "x1": 339.0,
+          "y1": 256.0,
+          "x2": 657.0,
+          "y2": 450.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      }
+    },
+    {
+      "description": {
+        "value": "ONION RINGS",
+        "bbox": {
+          "page": 1,
+          "x1": 339.0,
+          "y1": 256.0,
+          "x2": 657.0,
+          "y2": 450.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "quantity": {
+        "value": "1",
+        "bbox": {
+          "page": 1,
+          "x1": 345.0,
+          "y1": 197.0,
+          "x2": 572.0,
+          "y2": 212.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "unitPrice": {
+        "value": "248",
+        "bbox": {
+          "page": 1,
+          "x1": 339.0,
+          "y1": 256.0,
+          "x2": 657.0,
+          "y2": 450.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxRate": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxAmount": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "lineAmount": {
+        "value": "248",
+        "bbox": {
+          "page": 1,
+          "x1": 339.0,
+          "y1": 256.0,
+          "x2": 657.0,
+          "y2": 450.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      }
+    },
+    {
+      "description": {
+        "value": "CAKE FOR ALL SEASON",
+        "bbox": {
+          "page": 1,
+          "x1": 339.0,
+          "y1": 256.0,
+          "x2": 657.0,
+          "y2": 450.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "quantity": {
+        "value": "1",
+        "bbox": {
+          "page": 1,
+          "x1": 345.0,
+          "y1": 197.0,
+          "x2": 572.0,
+          "y2": 212.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "unitPrice": {
+        "value": "220",
+        "bbox": {
+          "page": 1,
+          "x1": 339.0,
+          "y1": 256.0,
+          "x2": 657.0,
+          "y2": 450.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxRate": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxAmount": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "lineAmount": {
+        "value": "220",
+        "bbox": {
+          "page": 1,
+          "x1": 339.0,
+          "y1": 256.0,
+          "x2": 657.0,
+          "y2": 450.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      }
+    }
+  ],
+  "isHumanReviewRequired": true,
+  "reviewReasons": [
+    "MANDATORY_FIELD_REVIEW"
+  ]
+}

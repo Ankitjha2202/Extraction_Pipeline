@@ -1,0 +1,919 @@
+{
+  "documentId": "multilingual_03_singapore.pdf",
+  "invoice": {
+    "invoiceNumber": {
+      "value": "537685",
+      "bbox": {
+        "page": 1,
+        "x1": 601.0,
+        "y1": 70.0,
+        "x2": 641.0,
+        "y2": 85.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "invoiceDate": {
+      "value": "09/09/25",
+      "bbox": {
+        "page": 1,
+        "x1": 8.0,
+        "y1": 132.0,
+        "x2": 643.0,
+        "y2": 288.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "dueDate": {
+      "value": "15/10/25",
+      "bbox": {
+        "page": 1,
+        "x1": 8.0,
+        "y1": 132.0,
+        "x2": 643.0,
+        "y2": 288.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "supplierName": {
+      "value": "Evergreen Fresh Produce Pte Ltd",
+      "bbox": {
+        "page": 1,
+        "x1": 8.0,
+        "y1": 57.0,
+        "x2": 155.0,
+        "y2": 68.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "supplierTaxId": {
+      "value": "201534892K",
+      "bbox": {
+        "page": 1,
+        "x1": 8.0,
+        "y1": 113.0,
+        "x2": 260.0,
+        "y2": 125.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "buyerName": {
+      "value": "MILLIONAIRES TASTE PTE. LTD (REVERIE LIVE MUSIC)",
+      "bbox": {
+        "page": 1,
+        "x1": 8.0,
+        "y1": 132.0,
+        "x2": 643.0,
+        "y2": 288.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "buyerTaxId": {
+      "value": "201534892K",
+      "bbox": {
+        "page": 1,
+        "x1": 8.0,
+        "y1": 113.0,
+        "x2": 260.0,
+        "y2": 125.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "currency": {
+      "value": "SGD",
+      "bbox": {
+        "page": 1,
+        "x1": 470.0,
+        "y1": 623.0,
+        "x2": 641.0,
+        "y2": 638.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "subtotal": {
+      "value": "101.42",
+      "bbox": {
+        "page": 1,
+        "x1": 470.0,
+        "y1": 623.0,
+        "x2": 641.0,
+        "y2": 638.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "taxAmount": {
+      "value": "9.13",
+      "bbox": {
+        "page": 1,
+        "x1": 493.0,
+        "y1": 642.0,
+        "x2": 641.0,
+        "y2": 658.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "totalAmount": {
+      "value": "110.55",
+      "bbox": {
+        "page": 1,
+        "x1": 472.0,
+        "y1": 673.0,
+        "x2": 641.0,
+        "y2": 689.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "amountDue": {
+      "value": "110.55",
+      "bbox": {
+        "page": 1,
+        "x1": 472.0,
+        "y1": 673.0,
+        "x2": 641.0,
+        "y2": 689.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "paymentTerms": {
+      "value": null,
+      "bbox": null,
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "purchaseOrderNumber": {
+      "value": "P021",
+      "bbox": {
+        "page": 1,
+        "x1": 8.0,
+        "y1": 132.0,
+        "x2": 643.0,
+        "y2": 288.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    }
+  },
+  "lineItems": [
+    {
+      "description": {
+        "value": "Carrot 红萝卜",
+        "bbox": {
+          "page": 1,
+          "x1": 8.0,
+          "y1": 304.0,
+          "x2": 646.0,
+          "y2": 612.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "quantity": {
+        "value": "1.20",
+        "bbox": {
+          "page": 1,
+          "x1": 8.0,
+          "y1": 304.0,
+          "x2": 646.0,
+          "y2": 612.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "unitPrice": {
+        "value": "1.40",
+        "bbox": {
+          "page": 1,
+          "x1": 8.0,
+          "y1": 304.0,
+          "x2": 646.0,
+          "y2": 612.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxRate": {
+        "value": "9%",
+        "bbox": {
+          "page": 1,
+          "x1": 493.0,
+          "y1": 642.0,
+          "x2": 641.0,
+          "y2": 658.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxAmount": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "lineAmount": {
+        "value": "1.68",
+        "bbox": {
+          "page": 1,
+          "x1": 8.0,
+          "y1": 304.0,
+          "x2": 646.0,
+          "y2": 612.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      }
+    },
+    {
+      "description": {
+        "value": "Grape Red 红葡萄",
+        "bbox": {
+          "page": 1,
+          "x1": 8.0,
+          "y1": 304.0,
+          "x2": 646.0,
+          "y2": 612.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "quantity": {
+        "value": "0.50",
+        "bbox": {
+          "page": 1,
+          "x1": 8.0,
+          "y1": 304.0,
+          "x2": 646.0,
+          "y2": 612.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "unitPrice": {
+        "value": "6.50",
+        "bbox": {
+          "page": 1,
+          "x1": 8.0,
+          "y1": 304.0,
+          "x2": 646.0,
+          "y2": 612.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxRate": {
+        "value": "9%",
+        "bbox": {
+          "page": 1,
+          "x1": 493.0,
+          "y1": 642.0,
+          "x2": 641.0,
+          "y2": 658.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxAmount": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "lineAmount": {
+        "value": "3.25",
+        "bbox": {
+          "page": 1,
+          "x1": 8.0,
+          "y1": 304.0,
+          "x2": 646.0,
+          "y2": 612.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      }
+    },
+    {
+      "description": {
+        "value": "Honeydew 蜜瓜",
+        "bbox": {
+          "page": 1,
+          "x1": 8.0,
+          "y1": 304.0,
+          "x2": 646.0,
+          "y2": 612.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "quantity": {
+        "value": "11.20",
+        "bbox": {
+          "page": 1,
+          "x1": 8.0,
+          "y1": 304.0,
+          "x2": 646.0,
+          "y2": 612.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "unitPrice": {
+        "value": "2.00",
+        "bbox": {
+          "page": 1,
+          "x1": 8.0,
+          "y1": 304.0,
+          "x2": 646.0,
+          "y2": 612.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxRate": {
+        "value": "9%",
+        "bbox": {
+          "page": 1,
+          "x1": 493.0,
+          "y1": 642.0,
+          "x2": 641.0,
+          "y2": 658.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxAmount": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "lineAmount": {
+        "value": "22.40",
+        "bbox": {
+          "page": 1,
+          "x1": 8.0,
+          "y1": 304.0,
+          "x2": 646.0,
+          "y2": 612.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      }
+    },
+    {
+      "description": {
+        "value": "Pineapple Honey 蜜黄梨",
+        "bbox": {
+          "page": 1,
+          "x1": 8.0,
+          "y1": 304.0,
+          "x2": 646.0,
+          "y2": 612.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "quantity": {
+        "value": "10.30",
+        "bbox": {
+          "page": 1,
+          "x1": 8.0,
+          "y1": 304.0,
+          "x2": 646.0,
+          "y2": 612.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "unitPrice": {
+        "value": "1.70",
+        "bbox": {
+          "page": 1,
+          "x1": 8.0,
+          "y1": 304.0,
+          "x2": 646.0,
+          "y2": 612.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxRate": {
+        "value": "9%",
+        "bbox": {
+          "page": 1,
+          "x1": 493.0,
+          "y1": 642.0,
+          "x2": 641.0,
+          "y2": 658.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxAmount": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "lineAmount": {
+        "value": "17.51",
+        "bbox": {
+          "page": 1,
+          "x1": 8.0,
+          "y1": 304.0,
+          "x2": 646.0,
+          "y2": 612.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      }
+    },
+    {
+      "description": {
+        "value": "Strawberry 草莓 250G",
+        "bbox": {
+          "page": 1,
+          "x1": 8.0,
+          "y1": 304.0,
+          "x2": 646.0,
+          "y2": 612.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "quantity": {
+        "value": "1.00",
+        "bbox": {
+          "page": 1,
+          "x1": 8.0,
+          "y1": 304.0,
+          "x2": 646.0,
+          "y2": 612.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "unitPrice": {
+        "value": "4.30",
+        "bbox": {
+          "page": 1,
+          "x1": 8.0,
+          "y1": 304.0,
+          "x2": 646.0,
+          "y2": 612.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxRate": {
+        "value": "9%",
+        "bbox": {
+          "page": 1,
+          "x1": 493.0,
+          "y1": 642.0,
+          "x2": 641.0,
+          "y2": 658.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxAmount": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "lineAmount": {
+        "value": "4.30",
+        "bbox": {
+          "page": 1,
+          "x1": 8.0,
+          "y1": 304.0,
+          "x2": 646.0,
+          "y2": 612.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      }
+    },
+    {
+      "description": {
+        "value": "Watermelon 西瓜",
+        "bbox": {
+          "page": 1,
+          "x1": 8.0,
+          "y1": 304.0,
+          "x2": 646.0,
+          "y2": 612.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "quantity": {
+        "value": "18.00",
+        "bbox": {
+          "page": 1,
+          "x1": 8.0,
+          "y1": 304.0,
+          "x2": 646.0,
+          "y2": 612.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "unitPrice": {
+        "value": "1.25",
+        "bbox": {
+          "page": 1,
+          "x1": 8.0,
+          "y1": 304.0,
+          "x2": 646.0,
+          "y2": 612.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxRate": {
+        "value": "9%",
+        "bbox": {
+          "page": 1,
+          "x1": 493.0,
+          "y1": 642.0,
+          "x2": 641.0,
+          "y2": 658.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxAmount": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "lineAmount": {
+        "value": "22.50",
+        "bbox": {
+          "page": 1,
+          "x1": 8.0,
+          "y1": 304.0,
+          "x2": 646.0,
+          "y2": 612.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      }
+    },
+    {
+      "description": {
+        "value": "Lettuce Iceberg 生菜粒",
+        "bbox": {
+          "page": 1,
+          "x1": 8.0,
+          "y1": 304.0,
+          "x2": 646.0,
+          "y2": 612.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "quantity": {
+        "value": "1.20",
+        "bbox": {
+          "page": 1,
+          "x1": 8.0,
+          "y1": 304.0,
+          "x2": 646.0,
+          "y2": 612.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "unitPrice": {
+        "value": "3.00",
+        "bbox": {
+          "page": 1,
+          "x1": 8.0,
+          "y1": 304.0,
+          "x2": 646.0,
+          "y2": 612.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxRate": {
+        "value": "9%",
+        "bbox": {
+          "page": 1,
+          "x1": 493.0,
+          "y1": 642.0,
+          "x2": 641.0,
+          "y2": 658.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxAmount": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "lineAmount": {
+        "value": "3.60",
+        "bbox": {
+          "page": 1,
+          "x1": 8.0,
+          "y1": 304.0,
+          "x2": 646.0,
+          "y2": 612.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      }
+    },
+    {
+      "description": {
+        "value": "Mesclun Salad (Triple Washed) 沙拉",
+        "bbox": {
+          "page": 1,
+          "x1": 8.0,
+          "y1": 304.0,
+          "x2": 646.0,
+          "y2": 612.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "quantity": {
+        "value": "1.00",
+        "bbox": {
+          "page": 1,
+          "x1": 8.0,
+          "y1": 304.0,
+          "x2": 646.0,
+          "y2": 612.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "unitPrice": {
+        "value": "16.00",
+        "bbox": {
+          "page": 1,
+          "x1": 8.0,
+          "y1": 304.0,
+          "x2": 646.0,
+          "y2": 612.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxRate": {
+        "value": "9%",
+        "bbox": {
+          "page": 1,
+          "x1": 493.0,
+          "y1": 642.0,
+          "x2": 641.0,
+          "y2": 658.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxAmount": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "lineAmount": {
+        "value": "16.00",
+        "bbox": {
+          "page": 1,
+          "x1": 8.0,
+          "y1": 304.0,
+          "x2": 646.0,
+          "y2": 612.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      }
+    },
+    {
+      "description": {
+        "value": "Romaine Lettuce 罗马生菜",
+        "bbox": {
+          "page": 1,
+          "x1": 8.0,
+          "y1": 304.0,
+          "x2": 646.0,
+          "y2": 612.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "quantity": {
+        "value": "1.00",
+        "bbox": {
+          "page": 1,
+          "x1": 8.0,
+          "y1": 304.0,
+          "x2": 646.0,
+          "y2": 612.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "unitPrice": {
+        "value": "3.50",
+        "bbox": {
+          "page": 1,
+          "x1": 8.0,
+          "y1": 304.0,
+          "x2": 646.0,
+          "y2": 612.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxRate": {
+        "value": "9%",
+        "bbox": {
+          "page": 1,
+          "x1": 493.0,
+          "y1": 642.0,
+          "x2": 641.0,
+          "y2": 658.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxAmount": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "lineAmount": {
+        "value": "3.50",
+        "bbox": {
+          "page": 1,
+          "x1": 8.0,
+          "y1": 304.0,
+          "x2": 646.0,
+          "y2": 612.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      }
+    },
+    {
+      "description": {
+        "value": "Onion White Peeled 去皮白大葱 1kg",
+        "bbox": {
+          "page": 1,
+          "x1": 8.0,
+          "y1": 304.0,
+          "x2": 646.0,
+          "y2": 612.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "quantity": {
+        "value": "2.00",
+        "bbox": {
+          "page": 1,
+          "x1": 8.0,
+          "y1": 304.0,
+          "x2": 646.0,
+          "y2": 612.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "unitPrice": {
+        "value": "1.60",
+        "bbox": {
+          "page": 1,
+          "x1": 8.0,
+          "y1": 304.0,
+          "x2": 646.0,
+          "y2": 612.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxRate": {
+        "value": "9%",
+        "bbox": {
+          "page": 1,
+          "x1": 493.0,
+          "y1": 642.0,
+          "x2": 641.0,
+          "y2": 658.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxAmount": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "lineAmount": {
+        "value": "3.20",
+        "bbox": {
+          "page": 1,
+          "x1": 8.0,
+          "y1": 304.0,
+          "x2": 646.0,
+          "y2": 612.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      }
+    },
+    {
+      "description": {
+        "value": "Cabbage 包菜",
+        "bbox": {
+          "page": 1,
+          "x1": 8.0,
+          "y1": 304.0,
+          "x2": 646.0,
+          "y2": 612.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "quantity": {
+        "value": "2.90",
+        "bbox": {
+          "page": 1,
+          "x1": 8.0,
+          "y1": 304.0,
+          "x2": 646.0,
+          "y2": 612.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "unitPrice": {
+        "value": "1.20",
+        "bbox": {
+          "page": 1,
+          "x1": 8.0,
+          "y1": 304.0,
+          "x2": 646.0,
+          "y2": 612.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxRate": {
+        "value": "9%",
+        "bbox": {
+          "page": 1,
+          "x1": 493.0,
+          "y1": 642.0,
+          "x2": 641.0,
+          "y2": 658.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxAmount": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "lineAmount": {
+        "value": "3.48",
+        "bbox": {
+          "page": 1,
+          "x1": 8.0,
+          "y1": 304.0,
+          "x2": 646.0,
+          "y2": 612.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      }
+    }
+  ],
+  "isHumanReviewRequired": false,
+  "reviewReasons": []
+}

@@ -1,0 +1,227 @@
+{
+  "documentId": "handwritten_05_bmpc33.pdf",
+  "invoice": {
+    "invoiceNumber": {
+      "value": "19601",
+      "bbox": {
+        "page": 1,
+        "x1": 605.0,
+        "y1": 152.0,
+        "x2": 652.0,
+        "y2": 172.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "invoiceDate": {
+      "value": "March 6, 2026",
+      "bbox": {
+        "page": 1,
+        "x1": 177.0,
+        "y1": 211.0,
+        "x2": 645.0,
+        "y2": 228.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "dueDate": {
+      "value": null,
+      "bbox": null,
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "supplierName": {
+      "value": "Crateworks Packaging Corporation",
+      "bbox": {
+        "page": 1,
+        "x1": 277.0,
+        "y1": 96.0,
+        "x2": 649.0,
+        "y2": 115.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "supplierTaxId": {
+      "value": "008-217-905-00000",
+      "bbox": {
+        "page": 1,
+        "x1": 350.0,
+        "y1": 167.0,
+        "x2": 538.0,
+        "y2": 179.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "buyerName": {
+      "value": "BF Jade E-Services Philippines, Inc.",
+      "bbox": {
+        "page": 1,
+        "x1": 177.0,
+        "y1": 211.0,
+        "x2": 645.0,
+        "y2": 228.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "buyerTaxId": {
+      "value": "008-183-175-000",
+      "bbox": {
+        "page": 1,
+        "x1": 177.0,
+        "y1": 257.0,
+        "x2": 671.0,
+        "y2": 284.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "currency": {
+      "value": "PHP",
+      "bbox": {
+        "page": 1,
+        "x1": 100.0,
+        "y1": 638.0,
+        "x2": 127.0,
+        "y2": 655.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "subtotal": {
+      "value": "43,300.00",
+      "bbox": {
+        "page": 1,
+        "x1": 165.0,
+        "y1": 315.0,
+        "x2": 683.0,
+        "y2": 650.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "taxAmount": {
+      "value": null,
+      "bbox": null,
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "totalAmount": {
+      "value": "43,300.00",
+      "bbox": {
+        "page": 1,
+        "x1": 165.0,
+        "y1": 315.0,
+        "x2": 683.0,
+        "y2": 650.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "amountDue": {
+      "value": "43,300.00",
+      "bbox": {
+        "page": 1,
+        "x1": 165.0,
+        "y1": 315.0,
+        "x2": 683.0,
+        "y2": 650.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "paymentTerms": {
+      "value": "30 Days",
+      "bbox": {
+        "page": 1,
+        "x1": 177.0,
+        "y1": 294.0,
+        "x2": 643.0,
+        "y2": 310.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    },
+    "purchaseOrderNumber": {
+      "value": "5100038239",
+      "bbox": {
+        "page": 1,
+        "x1": 165.0,
+        "y1": 315.0,
+        "x2": 683.0,
+        "y2": 650.0
+      },
+      "isHumanReviewRequired": false,
+      "reviewReasons": []
+    }
+  },
+  "lineItems": [
+    {
+      "description": {
+        "value": "ZALORA LARGE BOX (PK0327)",
+        "bbox": {
+          "page": 1,
+          "x1": 165.0,
+          "y1": 315.0,
+          "x2": 683.0,
+          "y2": 650.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "quantity": {
+        "value": "2500",
+        "bbox": {
+          "page": 1,
+          "x1": 165.0,
+          "y1": 315.0,
+          "x2": 683.0,
+          "y2": 650.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "unitPrice": {
+        "value": "17.32",
+        "bbox": {
+          "page": 1,
+          "x1": 165.0,
+          "y1": 315.0,
+          "x2": 683.0,
+          "y2": 650.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxRate": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxAmount": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "lineAmount": {
+        "value": "43,300.00",
+        "bbox": {
+          "page": 1,
+          "x1": 165.0,
+          "y1": 315.0,
+          "x2": 683.0,
+          "y2": 650.0
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      }
+    }
+  ],
+  "isHumanReviewRequired": false,
+  "reviewReasons": []
+}

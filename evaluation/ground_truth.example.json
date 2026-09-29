@@ -1,0 +1,33 @@
+{
+  "documents": [
+    {
+      "documentId": "digital_01.pdf",
+      "invoice": {
+        "invoiceNumber": "INV-001",
+        "invoiceDate": "2024-01-15",
+        "dueDate": "2024-02-15",
+        "supplierName": "Example Supplier Ltd",
+        "supplierTaxId": null,
+        "buyerName": "Example Buyer Inc",
+        "buyerTaxId": null,
+        "currency": "USD",
+        "subtotal": "100.00",
+        "taxAmount": "10.00",
+        "totalAmount": "110.00",
+        "amountDue": "110.00",
+        "paymentTerms": "Net 30",
+        "purchaseOrderNumber": null
+      },
+      "lineItems": [
+        {
+          "description": "Consulting services",
+          "quantity": "1",
+          "unitPrice": "100.00",
+          "taxRate": "10%",
+          "taxAmount": "10.00",
+          "lineAmount": "100.00"
+        }
+      ]
+    }
+  ]
+}
